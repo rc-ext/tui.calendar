@@ -1,0 +1,4 @@
+# Par défaut, tous les fichiers sont considérés comme du texte 
+# et ont des fins de ligne LF
+* text eol=lf
+
